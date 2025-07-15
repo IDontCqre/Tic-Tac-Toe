@@ -271,7 +271,7 @@ Public Class Form1
         End If
     End Sub
     Private Sub Button10_Click(sender As Object, e As EventArgs) Handles Button10.Click
-        MessageBox.Show("Programmed and Designed by Carpio and Rumbaoa" & vbCrLf & "(Nov 2023)", "Credit", MessageBoxButtons.OK, MessageBoxIcon.Information)
+        MessageBox.Show("Programmed and Designed by Carpio" & vbCrLf & "(Nov 2023)", "Credit", MessageBoxButtons.OK, MessageBoxIcon.Information)
     End Sub
     Private Sub Button11_Click(sender As Object, e As EventArgs) Handles Button11.Click
         CheckForXorO = True
